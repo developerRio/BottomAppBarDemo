@@ -8,3 +8,4 @@ Made with ❤ in kotlin.
 will work on those beautifull animations (movement of floation action button on switching different fragments).
 
 Screenshot is attached with directory.
+https://github.com/developerRio/BottomAppBarDemo/blob/master/Screenshot_20181030-172646.png
